@@ -1,4 +1,4 @@
-<a href="#"><img width="20%" height="auto" src="https://i.imgur.com/zMkVW2c.png" height="25px"/></a>
+<a href="#"><img width="20%" height="auto" src="https://i.imgur.com/FmyVssb.png" height="25px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm bleach</h1>
 

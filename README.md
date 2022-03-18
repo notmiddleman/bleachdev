@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **?**
 
-- 📫 How to find me **bleach#0173**
+- 📫 How to find me **bleach#4098**
 
 - ⚡ Fun fact **big dev**
 

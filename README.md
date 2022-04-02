@@ -7,6 +7,6 @@
 
 | Asset | Address |
 | ------------- | ------------- |
-| ![](https://raw.githubusercontent.com/ErikThiart/cryptocurrency-icons/master/16/bitcoin.png) <b>BTC</b> | 1DDaSwnWbpRVK7hkv96iyDyNfxa4JcWr6s 
-| ![](https://raw.githubusercontent.com/ErikThiart/cryptocurrency-icons/master/16/bitcoin-cash.png) <b>BCH</b> | 1Pkhkkft5RFTEzqkt1x3rrSCyvNtLG6sSZ 
-| ![](https://raw.githubusercontent.com/ErikThiart/cryptocurrency-icons/master/16/ethereum-classic.png) <b>ETC</b> | 0x0b61EceE6Dfbaeaaa8DBC8aE439FAFd854075195 |
+| ![](https://raw.githubusercontent.com/ErikThiart/cryptocurrency-icons/master/16/bitcoin.png) <b>BTC</b> | bc1qk8kgjc5vgx8xsfle48dcnrey9aaqq8vsld9shh 
+| ![](https://raw.githubusercontent.com/ErikThiart/cryptocurrency-icons/master/16/bitcoin-cash.png) <b>BCH</b> | qq0ypyh2dxx8pk327wu36nlfhz6rswwqlvchzuywec
+| ![](https://raw.githubusercontent.com/ErikThiart/cryptocurrency-icons/master/16/ethereum-classic.png) <b>ETH Global Net</b> | 0x35B00404A5D6A45f5ddA749F75C0249Ce3Cdf9Ef |

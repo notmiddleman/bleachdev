@@ -1,7 +1,7 @@
 #### Stats:
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=bleachdev&show_icons=true&theme=github_dark&custom_title=Stats"/> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bleachdev&show_icons=true&layout=compact&theme=github_dark"/> |
 | ------------- | ------------- |
-<img align="center" src="https://github.com/bleachdev/gameszenseloader/blob/main/skeetbackground.png"/> | <img align="center"
+<img align="center" src="https://github.com/bleachdev/gameszenseloader/blob/main/skeetbackground.png"/
 #### Support me if you want to:
 [![PayPalDonate](https://img.shields.io/badge/Donate-PayPal-red.svg)](https://www.paypal.com/donate/?hosted_button_id=7JVS9ARLQZDVG)
 
